@@ -1,0 +1,15 @@
+Hammer
+10
+60
+Sawblade
+5
+10
+Chainsaw
+5
+70
+Pallet
+15
+100
+Workbench
+20
+150
